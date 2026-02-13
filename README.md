@@ -1,3 +1,5 @@
-# Dilaso Spiral Wave Force
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18526295.svg)](https://doi.org/10.5281/zenodo.18526295)
+## 📄 Citation
 
+If you use this work, please cite:
+
+Lalgi, D. (2026). *Dilaso Spiral Wave Force*. Zenodo. https://doi.org/10.5281/zenodo.18526295
