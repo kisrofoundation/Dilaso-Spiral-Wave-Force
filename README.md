@@ -4,7 +4,7 @@
 
 Preprint | Theoretical Physics | Earth–Moon Interaction Dynamics  
 
-Version 1.0 — 14 February 2026  
+Version 1.0 — 05 February 2026  
 
 ---
 
