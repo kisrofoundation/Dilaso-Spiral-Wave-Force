@@ -79,6 +79,8 @@ See LICENSE file for details.
 
 Email: kisrofoundation@gmail.com  
 
+Add LaTeX manuscript and references
+
 ---
 
 ## Disclaimer
